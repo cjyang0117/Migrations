@@ -1,0 +1,11 @@
+D:\Users\s429108\source\repos\Migrations\Migrations\bin\Debug\netcoreapp2.1\Migrations.deps.json
+D:\Users\s429108\source\repos\Migrations\Migrations\bin\Debug\netcoreapp2.1\Migrations.runtimeconfig.json
+D:\Users\s429108\source\repos\Migrations\Migrations\bin\Debug\netcoreapp2.1\Migrations.runtimeconfig.dev.json
+D:\Users\s429108\source\repos\Migrations\Migrations\bin\Debug\netcoreapp2.1\Migrations.dll
+D:\Users\s429108\source\repos\Migrations\Migrations\obj\Debug\netcoreapp2.1\Migrations.csprojAssemblyReference.cache
+D:\Users\s429108\source\repos\Migrations\Migrations\obj\Debug\netcoreapp2.1\Migrations.csproj.CoreCompileInputs.cache
+D:\Users\s429108\source\repos\Migrations\Migrations\obj\Debug\netcoreapp2.1\Migrations.AssemblyInfoInputs.cache
+D:\Users\s429108\source\repos\Migrations\Migrations\obj\Debug\netcoreapp2.1\Migrations.AssemblyInfo.cs
+D:\Users\s429108\source\repos\Migrations\Migrations\bin\Debug\netcoreapp2.1\Migrations.pdb
+D:\Users\s429108\source\repos\Migrations\Migrations\obj\Debug\netcoreapp2.1\Migrations.dll
+D:\Users\s429108\source\repos\Migrations\Migrations\obj\Debug\netcoreapp2.1\Migrations.pdb
